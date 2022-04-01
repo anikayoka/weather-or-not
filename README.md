@@ -4,12 +4,12 @@
 Create a weather dashboard application using a third-party API, OpenWeather One Call API, to retrieve weather data for cities. 
 
 ## Built With
-HTML
-CSS
-Bootstrap
-jQuery
-Moment.js
-Server-Side API - OpenWeather API
+* HTML
+* CSS
+* Bootstrap
+* jQuery
+* Moment.js
+* Server-Side API - OpenWeather API
 
 ## Criteria
 * When a search for a city is performed, current and future conditions for that city is presented and that city is added to the search history
@@ -25,7 +25,7 @@ Server-Side API - OpenWeather API
 
 
 ## Website
-* Github https://anikayoka.github.io/inaDayswork/
+* Github https://github.com/anikayoka/weather-or-not.git
 * Deployed 
 
 
