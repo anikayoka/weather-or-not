@@ -26,9 +26,11 @@ Create a weather dashboard application using a third-party API, OpenWeather One 
 
 ## Website
 * Github https://github.com/anikayoka/weather-or-not.git
-* Deployed 
+* Deployed  https://anikayoka.github.io/weather-or-not/
 
+## Screenshot
 
+![Weather Dashboard](https://user-images.githubusercontent.com/88905488/161337828-e59136a1-02a1-4718-b21c-d91f75de4260.png)
 
 ## Contribution
 Made with ❤️ by Anika McLean
