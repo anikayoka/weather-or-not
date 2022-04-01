@@ -64,7 +64,7 @@ function cityCoord(lat, lon, city) {
       } else {
         $("#uvColor").css("background-color", "#5B2C6F").css("color", "white");
       };
-      $("#five-day").empty();
+      // $("#five-day").empty();
 
       let fivedayHTMLCode = ""
       for (let i = 0; i < 5; i++) {
