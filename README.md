@@ -1,9 +1,9 @@
 # Weather Dashboard
 
-Purpose
+#Purpose
 Create a weather dashboard application using a third-party API, OpenWeather One Call API, to retrieve weather data for cities. 
 
-Built With
+#Built With
 HTML
 CSS
 Bootstrap
@@ -11,7 +11,7 @@ jQuery
 Moment.js
 Server-Side API - OpenWeather API
 
-Criteria
+#Criteria
 When a search for a city is performed, current and future conditions for that city is presented and that city is added to the search history
  
 When current weather conditions for that city is viewed, the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index is presented
@@ -24,7 +24,7 @@ When a city in the search history is clicked on, current and future conditions f
 
 
 
-Website
+#Website
 https://anikayoka.github.io/inaDayswork/
 
 
