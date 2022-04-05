@@ -13,15 +13,13 @@
 }
 
 body {
-  /* flex-column; 
-  min-100-vh */
   background-color: var(--primary);
   font-family: 'Exo', sans-serif;
 }
 
 main {
   margin: 20px auto;
-  width: 94%;
+  width: 100%;
 }
 
 h1 {

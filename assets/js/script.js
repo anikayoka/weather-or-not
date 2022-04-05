@@ -83,7 +83,7 @@ function cityCoord(lat, lon, city) {
 
     
         fivedayHTMLCode += `
-            <div class="card mr-3 mb-3 text-light" style="width: 12rem":>
+            <div class="card mr-3 mb-2 text-light" style="width: 12rem":>
               <div class="card-fiveday">
                 <h5>${currDate}</h5>
                 <p>${fivedayIconURL}</p>
@@ -132,6 +132,11 @@ $(document).ready(function () {
     var lastSearchedCity = historyArr[lastSearchedIndex];
     getCityWeather(lastSearchedCity);
     console.log(`Last city searched: ${lastSearchedCity}`);
+    $("#search-list").html("")
+    for (let i=0; i<historyArr.length; i++) {
+      var searchedCity = $(`<li class="city-history">${historyArr[i]}</li>`);
+    $("#search-list").append(searchedCity);
+    }
   }
 });
 
